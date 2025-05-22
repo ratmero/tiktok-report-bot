@@ -1,4 +1,4 @@
-<p align="center"> # <h1 align="center">🚀 TIKTOK REPORT TOOL</h1>  
+ <h1 align="center">🚀 TIKTOK REPORT TOOL</h1>  
 <p align="center"><img src="logo.png" width="150px" height="350px" alt="insta logo"></p>
 TikTok report bot are a tool designed to automate the process of reporting accounts on TikTok that may violate the platform's policies. These bots can be used to mass-report accounts for spam, fake profiles, or other violations.
 
